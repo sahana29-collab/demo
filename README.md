@@ -1,7 +1,7 @@
 # LPG LEAKAGE CONTROL AND ALERT SYSTEM
 
 
-#Project Overview:
+#Project Overview:-
 
   This project is an Arduino-based gas leakage detection and safety system. It continuously monitors LPG gas leakage using     an MQ2 gas sensor. When gas is detected above a predefined threshold, the system automatically activates a buzzer and an     exhaust fan, rotates a servo motor to turn OFF the gas regulator, and sends an SMS alert to the owner's mobile phone using   the SIM800L GSM module. The system helps reduce the risk of fire accidents and improves household safety.
 
